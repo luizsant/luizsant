@@ -38,10 +38,11 @@ Visite meu portfólio para ver mais sobre meus projetos:
 
 ## 📈 Estatísticas do GitHub
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsant&show_icons=true&theme=dark)
+<p align="center">
+  <a href="#"><img alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luizsant&show_icons=true&theme=radical" height="195px" /></a>
+  <a href="#"><img alt="Luiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsant&theme=radical&layout=compact" height="195px" /></a>
+</p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ⭐️ De [Luiz Santiago](https://github.com/luizsant)
