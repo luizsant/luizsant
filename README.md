@@ -42,6 +42,7 @@ Visite meu portfólio para ver mais sobre meus projetos:
   <a href="#"><img alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luizsant&show_icons=true&theme=dark" height="195px" /></a>
   <a href="#"><img alt="Luiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsant&theme=dark&layout=compact" height="195px" /></a>
 </p>
+![Snake animation](https://github.com/luizsant/luizsant/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
