@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz Santiago 👋
+# Olá, eu sou o Luiz Santiago 👋
 
 ## 👨‍💻 Apaixonado por Programação
 
