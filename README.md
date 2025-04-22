@@ -27,7 +27,7 @@
 ## 🌟 Projetos Pessoais
 
 Visite meu portfólio para ver mais sobre meus projetos:
-- 🔗 [CraftDev](https://www.craftdev.com.br/)
+- 🔗 [CraftDev](https://www.craftdev.com.br/](https://github.com/luizsant?tab=repositories))
 
 ## 📚 Aprendizado Contínuo
 
