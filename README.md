@@ -2,8 +2,7 @@
 
 ## 👨‍💻 Apaixonado por Programação
 
-- 📚 Advogado e Servidor Público apaixonado por programação e engenharia de software.
-- 🌐 Cursando Engenharia de Software, buscando sempre aprender mais e aprofundar meus conhecimentos.
+- 📚 Advogado, Servidor Público e Engenheiro de Software.
 - 🎯 Objetivo: Desenvolver minhas habilidades como programador.
 
 ## 🛠️ Habilidades e Ferramentas
