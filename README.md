@@ -1,9 +1,19 @@
 # Olá, eu sou o Luiz Santiago 👋
 
-## 👨‍💻 Apaixonado por Programação
+## 👨‍💻 Engenheiro de Software
 
-- 📚 Advogado, Servidor Público e Engenheiro de Software.
-- 🎯 Objetivo: Desenvolver minhas habilidades como programador.
+Engenheiro de Software com atuação também como Advogado e Servidor Público. Construo soluções de legal tech, automação e monitoramento jurídico, unindo conhecimento do Direito e engenharia de software.
+
+- 🎓 Engenharia de Software (UNINTER)
+- ⚖️ Advogado (OAB/PA e OAB/SP) e Servidor Público
+- 🚀 Foco: produtos digitais para o mercado jurídico, automação e integração de sistemas
+- 🎯 Objetivo: evoluir continuamente como engenheiro de software e entregar produtos de impacto real
+
+## 🧩 Projetos em Destaque
+
+- **AtendeFind**: motor de monitoramento jurídico (DJEN, DataJud, Consilium TJPA), em produção.
+- **AtendePubli**: SaaS B2B de monitoramento de publicações e processos, em beta fechado.
+- **AtendeJus**: plataforma de atendimento com bots, CRM e automações para escritórios de advocacia.
 
 ## 🛠️ Habilidades e Ferramentas
 
@@ -16,6 +26,8 @@
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
   <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-1BD88B?style=for-the-badge&logo=pycharm&logoColor=white" /></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 </p>
 
 ## 📫 Como me contatar
@@ -23,17 +35,9 @@
 - 📧 [Email](mailto:seuemail@example.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seuperfil)
 
-## 🌟 Projetos Pessoais
+## 🌟 Repositórios
 
-Visite meu portfólio para ver mais sobre meus projetos:
-- 🔗 [CraftDev](https://github.com/luizsant?tab=repositories)
-
-## 📚 Aprendizado Contínuo
-
-<p>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-</p>
+- 🔗 [Meus repositórios no GitHub](https://github.com/luizsant?tab=repositories)
 
 ## 📈 Estatísticas do GitHub
 
@@ -41,7 +45,6 @@ Visite meu portfólio para ver mais sobre meus projetos:
   <a href="#"><img alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luizsant&show_icons=true&theme=dark" height="195px" /></a>
   <a href="#"><img alt="Luiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsant&theme=dark&layout=compact" height="195px" /></a>
 </p>
-
 
 ---
 
